@@ -12,7 +12,7 @@ This project has three files
 In order to run the experiments you should run
 ```
 main.py dataset_name k local_search_iter lloyd_iter num_experiments out_dir_name
-'''
+```
 where 
 - dataset_name is the name of the dataset
 - k is the target number of centers
