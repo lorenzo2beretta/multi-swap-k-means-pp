@@ -4,8 +4,8 @@ This repository contains the code used to run experiments on the multi-swap K-me
 ### Project structure
 This project has three files
 
-- ```multi_swap_kmpp.py''' contains the bulk of the code. There you can find the implementation of multi-swap k-means++ both with either greedy or vanilla (i.e., brute-force) removal rule
-- ```main.py''' runs the experiments
+- multi_swap_kmpp.py contains the bulk of the code. There you can find the implementation of multi-swap k-means++ both with either greedy or vanilla (i.e., brute-force) removal rule
+- main.py runs the experiments
 - ```utilities.py''' contains utility functions to manage the datasets.
 
 ### How to Run
